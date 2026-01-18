@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hien Luu | Web3 Community Moderator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Hien Luu</h1>
+  <p>Web3 Community Moderator · Crypto Enthusiast</p>
+  <nav>
+    <a href="index.html">Profile</a>
+    <a href="blog.html">Blog</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="container">
+  <h2>👋 About Me</h2>
+  <p>
+    I am an active Web3 community member with hands-on experience supporting
+    Discord and Telegram communities. I focus on maintaining a healthy,
+    transparent, and welcoming environment for both new and experienced users.
+  </p>
+
+  <h2>🛠 Moderator Experience</h2>
+  <ul>
+    <li>Answering community questions related to tasks, campaigns, testnets, and airdrops</li>
+    <li>Guiding new members and reducing onboarding friction</li>
+    <li>Monitoring chat, handling spam, scams, and toxic behavior</li>
+    <li>Supporting community engagement and positive discussions</li>
+    <li>Relaying community feedback to the core team</li>
+  </ul>
+
+  <h2>💡 Skills & Strengths</h2>
+  <ul>
+    <li>Strong communication & patience</li>
+    <li>Solid understanding of Crypto, DeFi, and on-chain concepts</li>
+    <li>Ability to handle FUD and sensitive community situations</li>
+    <li>Reliable availability with flexible online hours</li>
+  </ul>
+
+  <h2>🤝 Why I Want to Be a Moderator</h2>
+  <p>
+    I believe a strong community is the backbone of any successful Web3 project.
+    As a moderator, my goal is to act as a bridge between the team and the community,
+    ensuring clarity, trust, and long-term engagement.
+  </p>
+
+  <h2>🚀 Commitment</h2>
+  <p>
+    I am committed to fairness, transparency, and professionalism.
+    I take responsibility seriously and continuously improve my Web3 knowledge
+    to better support the community.
+  </p>
+
+  <a class="btn" href="blog.html">Read My Blog</a>
+</section>
+
+<footer id="contact">
+  <p>
+    Contact:  
+    <span>Discord · Telegram · X (Twitter)</span>
+  </p>
+</footer>
+
+</body>
+</html>

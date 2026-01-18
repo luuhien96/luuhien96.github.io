@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog | Hien Luu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Blog</h1>
+  <nav>
+    <a href="index.html">Profile</a>
+    <a href="blog.html">Blog</a>
+  </nav>
+</header>
+
+<section class="container">
+
+  <div class="post-preview">
+    <h2>Why Community Is the Core of Web3</h2>
+    <p>
+      My perspective on how strong communities determine the long-term success
+      of Web3 projects.
+    </p>
+    <a href="post.html">Read more →</a>
+  </div>
+
+  <div class="post-preview">
+    <h2>What Makes a Good Web3 Moderator</h2>
+    <p>
+      Key responsibilities, mindset, and skills required to manage Web3 communities.
+    </p>
+    <a href="post.html">Read more →</a>
+  </div>
+
+</section>
+
+</body>
+</html>

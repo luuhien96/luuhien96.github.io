@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Why Community Is the Core of Web3</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Profile</a>
+    <a href="blog.html">← Back to Blog</a>
+  </nav>
+</header>
+
+<section class="container">
+  <h1>Why Community Is the Core of Web3</h1>
+  <p class="date">January 2026</p>
+
+  <p>
+    In Web3, users are not just customers — they are contributors, builders,
+    and long-term stakeholders.
+  </p>
+
+  <p>
+    A well-managed community builds trust, encourages participation,
+    and protects the project from misinformation and toxic behavior.
+  </p>
+
+  <p>
+    Moderators play a crucial role by maintaining clarity, fairness,
+    and open communication between the team and the community.
+  </p>
+</section>
+
+</body>
+</html>
